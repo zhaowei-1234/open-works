@@ -1,0 +1,23 @@
+{
+  "name": "@realsee/open-works",
+  "version": "0.0.1-alpha.4",
+  "description": "如视开放 Work 数据集.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/realsee-developer/open-works.git"
+  },
+  "keywords": [
+    "realsee",
+    "work"
+  ],
+  "author": "BEIKE REALSEE TECHNOLOGY (HK)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/realsee-developer/open-works/issues"
+  },
+  "homepage": "https://github.com/realsee-developer/open-works#readme"
+}
