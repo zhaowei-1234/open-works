@@ -6,6 +6,8 @@
 
 ## Usage
 
+基础数据 81RojBlJQdVTglNNMr 
+
 ```ts
 // JSON
 import workJson from "@realsee/open-works/virtual/81RojBlJQdVTglNNMr.json"
@@ -15,3 +17,19 @@ import { work } from "https://cdn.skypack.dev/@realsee/open-works/virtual/81RojB
 
 ```
 
+含户型图、模型房屋标签数据 81gmMq5a7zbF9leWMk
+
+```ts
+// JSON
+import workJson from "@realsee/open-works/virtual/81gmMq5a7zbF9leWMk/work.json"  // work
+import floorplanServerDataJson from "@realsee/open-works/virtual/81gmMq5a7zbF9leWMk/floorplanServerData.json"  // floorplanServerData
+import modelRoomLabelsJson from "@realsee/open-works/virtual/81gmMq5a7zbF9leWMk/modelRoomLabels.json"  // modelRoomLabels
+
+
+// ES Modules
+import { 
+    work,
+    floorplanServerData,
+    modelRoomLabels
+} from "https://cdn.skypack.dev/@realsee/open-works/virtual/81gmMq5a7zbF9leWMk/index";
+```
