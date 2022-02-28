@@ -6,18 +6,18 @@
 
 ## Usage
 
-基础数据 81RojBlJQdVTglNNMr 
+### 获取 Work 数据 
 
 ```ts
 // JSON
-import workJson from "@realsee/open-works/virtual/81RojBlJQdVTglNNMr.json"
+import workJson from "@realsee/open-works/virtual/81RojBlJQdVTglNNMr/work.json"
 
 // ES Modules
-import { work } from "https://cdn.skypack.dev/@realsee/open-works/virtual/81RojBlJQdVTglNNMr";
+import { work } from "https://cdn.skypack.dev/@realsee/open-works/virtual/81RojBlJQdVTglNNMr/work";
 
 ```
 
-含户型图、模型房屋标签数据 81gmMq5a7zbF9leWMk
+### 获取户型图、房间标签等附加数据
 
 ```ts
 // JSON
@@ -33,3 +33,4 @@ import {
     modelRoomLabels
 } from "https://cdn.skypack.dev/@realsee/open-works/virtual/81gmMq5a7zbF9leWMk/index";
 ```
+

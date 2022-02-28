@@ -1,15 +1,11 @@
-import { work as _81RojBlJQdVTglNNMr_ } from "./virtual/81RojBlJQdVTglNNMr";
-import { work as _816lPVZQkQDF5XOpPo_ } from "./virtual/816lPVZQkQDF5XOpPo";
-import {
-  work as _81gmMq5a7zbF9leWMk_work,
-  floorplanServerData as _81gmMq5a7zbF9leWMk_floorplanServerData,
-  modelRoomLabels as _81gmMq5a7zbF9leWMk_modelRoomLabels
-} from './virtual/81gmMq5a7zbF9leWMk/index'
+import _81gmMq5a7zbF9leWMk  from "./virtual/81gmMq5a7zbF9leWMk";
+import _81RojBlJQdVTglNNMr  from "./virtual/81RojBlJQdVTglNNMr";
+import _81w1MyAQybVcNa97ME  from "./virtual/81w1MyAQybVcNa97ME";
+import _816lPVZQkQDF5XOpPo  from "./virtual/816lPVZQkQDF5XOpPo";
 
 export const openWorks = {
-  _81RojBlJQdVTglNNMr_,
-  _816lPVZQkQDF5XOpPo_,
-  _81gmMq5a7zbF9leWMk_work,
-  _81gmMq5a7zbF9leWMk_floorplanServerData,
-  _81gmMq5a7zbF9leWMk_modelRoomLabels
+  _81gmMq5a7zbF9leWMk,
+  _81RojBlJQdVTglNNMr,
+  _81w1MyAQybVcNa97ME,
+  _816lPVZQkQDF5XOpPo,
 }
