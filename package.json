@@ -1,12 +1,13 @@
 {
   "name": "@realsee/open-works",
-  "version": "0.1.0-alpha.2",
+  "version": "0.1.0-alpha.3",
   "description": "如视开放 Work 数据集.",
   "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/realsee-developer/open-works.git"
   },
+  "type": "module",
   "keywords": [
     "realsee",
     "work",
